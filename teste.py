@@ -1,6 +1,6 @@
 from pyspark import SparkConf, SparkContext
 from operator import add
-
+#teste para versionamento GIT
 try:
     #configuração
     v_configuracao = (SparkConf()
